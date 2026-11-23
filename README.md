@@ -3,7 +3,8 @@
 > 지방소멸대응기금의 성과를 검증하고 투자계획서 작성을 돕는 대화형 AI 에이전트
 > 5인 팀 (**본인: 초기 EDA → AI 에이전트 백엔드**) · 2026.07 ~ 08
 
-**핵심 결과**: 기금 현황 진단부터 성과 검증, 투자계획서 초안까지 하나의 대화로 연결한 시제품 배포. BITAmin 학회 내부 발표 최우수상
+**핵심 결과**: 기금 현황 진단부터 성과 검증, 투자계획서 초안까지 하나의 대화로 연결한 시제품 배포
+**수상**: BITAmin Conference 최우수상
 **원본**: [팀 레포](https://github.com/sdfjslfjafkdl/2026-summer-semester-project) · [배포](https://chungbuk-insight-agent.lovable.app)
 
 ![표지](images/01_cover.png)
